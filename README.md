@@ -1,5 +1,5 @@
 # Platformer-Game
-This is a platformer game made in Python using the Pygame library, currently just in the demo phase, working on the proper game. 
+This is a platformer game made in Python using the Pygame library, currently just in the demo phase, I am working on the proper game. 
 The assets file contains all the sprites necessary for the game.
 The main.py file is the game file which can be executed in a python environment to initialize the game.
 
